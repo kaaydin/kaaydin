@@ -9,7 +9,7 @@ I’m currently working on: <br>
 
 My past projects include: <br>
 &nbsp;&nbsp;&nbsp;  📚 Chatbot designed to assist users in finding information related to apprenticeships <br>  
-&nbsp;&nbsp;&nbsp;  🌎 Land-Cover Classification of Remote Sensing Images <br>  
+&nbsp;&nbsp;&nbsp;  🌎 Land-Cover Classification of Remote Sensing Images
 &nbsp;&nbsp;&nbsp;  📚 Customer Transaction Prediction for Santander (Kaggle Challenge)
 
 📫 Feel free to reach out if you have any questions! 
