@@ -8,10 +8,10 @@ I’m currently working on: <br>
 &nbsp;&nbsp;&nbsp;  📑 A task list management application on Java based on the Hexogonal Architecture
 
 My past projects include: <br>
-&nbsp;&nbsp;&nbsp; 📚 [Chatbot designed to assist users in finding information related to apprenticeships](https://github.com/kaaydin/eduatar-chatbot)  <br> 
-&nbsp;&nbsp;&nbsp; 🌎 Land-Cover Classification of Remote Sensing Images <br>
-&nbsp;&nbsp;&nbsp; 📓 Automatic Documentation for Jupyter Notebooks <br>
-&nbsp;&nbsp;&nbsp; 📚 Customer Transaction Prediction for Santander (Kaggle Challenge)
+&nbsp;&nbsp;&nbsp; 📚 Chatbot designed to assist users in finding information related to apprenticeships [(Link)](https://github.com/kaaydin/eduatar-chatbot)  <br> 
+&nbsp;&nbsp;&nbsp; 🌎 Land-Cover Classification of Remote Sensing Images [(Link)](https://github.com/kaaydin/remote-sensing) <br>
+&nbsp;&nbsp;&nbsp; 📓 Automatic Documentation for Jupyter Notebooks [(Link)](https://github.com/kaaydin/automatic-notebook-documentation) <br>
+&nbsp;&nbsp;&nbsp; 📚 Customer Transaction Prediction for Santander (Kaggle Challenge) [(Link)](https://github.com/kaaydin/santander-prediction)
 
 📫 Feel free to reach out if you have any questions! 
 ✨ Currently exploring topics in GenAI for my next project / Master Thesis
