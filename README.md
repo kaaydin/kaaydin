@@ -7,10 +7,10 @@ I’m currently working on: <br>
 &nbsp;&nbsp;&nbsp;  ❓ Visual Question Answering (VQA) System for Remote Sensing <br>
 &nbsp;&nbsp;&nbsp;  📑 A task list management application on Java based on the Hexogonal Architecture
 
-My past projects include: 
+My past projects include: <br>
 &nbsp;&nbsp;&nbsp;  📚 Chatbot designed to assist users in finding information related to apprenticeships <br>  
 &nbsp;&nbsp;&nbsp;  🌎 Land-Cover Classification of Remote Sensing Images <br>  
-&nbsp;&nbsp;&nbsp;  📚 Customer Transaction Prediction for Santander (Kaggle Challenge) <br>  
+&nbsp;&nbsp;&nbsp;  📚 Customer Transaction Prediction for Santander (Kaggle Challenge)
 
 📫 Feel free to reach out if you have any questions! 
 ✨ Currently exploring topics in GenAI for my next project
