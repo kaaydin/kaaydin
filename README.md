@@ -2,8 +2,8 @@
 
 I am a computer science student interested in deep learning 📊 and product management 🚀. 
 
-🔭 I’m currently working on: \n
-  📚 Representation Learning for Language Transformers \n
+🔭 I’m currently working on: <br>
+  📚 Representation Learning for Language Transformers <br>
   ❓ Visual Question Answering (VQA) System for Remote Sensing
   
   
