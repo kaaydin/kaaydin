@@ -2,35 +2,15 @@
 
 I am a computer science student interested in deep learning 📊 and product management 🚀. 
 
-🔭 I’m currently working on: <br>
+I’m currently working on: <br>
 &nbsp;&nbsp;&nbsp;  📚 Representation Learning for Language Transformers <br>
-&nbsp;&nbsp;&nbsp;  ❓ Visual Question Answering (VQA) System for Remote Sensing
-  
-  
-  
-⭐  I am 
+&nbsp;&nbsp;&nbsp;  ❓ Visual Question Answering (VQA) System for Remote Sensing <br>
+&nbsp;&nbsp;&nbsp;  📑 A task list management application on Java based on the Hexogonal Architecture
 
+My past projects include: 
+&nbsp;&nbsp;&nbsp;  📚 Chatbot designed to assist users in finding information related to apprenticeships <br>  
+&nbsp;&nbsp;&nbsp;  🌎 Land-Cover Classification of Remote Sensing Images <br>  
+&nbsp;&nbsp;&nbsp;  📚 Customer Transaction Prediction for Santander (Kaggle Challenge) <br>  
 
-
-
-
-
-<!--**kaaydin/kaaydin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-exploring MLOps, NixOS, Machine Learning Models and Cloud Technologies.
-🎶 I enjoy creating electronic music and playing the Piano
-💬 Check out my dotfiles and neovim configuration
-
-️️️🧑‍💼 My Resume (english, german)
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Feel free to reach out if you have any questions! 
+✨ Currently exploring topics in GenAI for my next project
