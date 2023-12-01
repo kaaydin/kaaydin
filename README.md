@@ -4,7 +4,7 @@ I am a computer science student interested in deep learning 📊 and product man
 
 I’m currently working on: <br>
 &nbsp;&nbsp;&nbsp; 📚 Representation Learning for Language Transformers [(Link)](https://github.com/kaaydin/representation-learning-language-transformers) <br>
-&nbsp;&nbsp;&nbsp; ❓ Visual Question Answering (VQA) System for Remote Sensing [Link](https://github.com/kaaydin/vqa-remote-sensing) <br>
+&nbsp;&nbsp;&nbsp; ❓ Visual Question Answering (VQA) System for Remote Sensing [(Link)](https://github.com/kaaydin/vqa-remote-sensing) <br>
 &nbsp;&nbsp;&nbsp;  📑 A task list management application on Java based on the Hexogonal Architecture [(Link)](https://github.com/kaaydin/tapas)
 
 My past projects include: <br>
