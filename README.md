@@ -13,5 +13,5 @@ My past projects include: <br>
 &nbsp;&nbsp;&nbsp; 📓 Automatic Documentation for Jupyter Notebooks [(Link)](https://github.com/kaaydin/automatic-notebook-documentation) <br>
 &nbsp;&nbsp;&nbsp; 📚 Customer Transaction Prediction for Santander [(Link)](https://github.com/kaaydin/santander-prediction)
 
-📫 Feel free to reach out if you have any questions! 
+📫 Feel free to reach out if you have any questions! <br>
 ✨ Currently exploring topics in GenAI for my next project / Master Thesis
