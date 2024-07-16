@@ -6,7 +6,7 @@ I’m currently working on: <br>
 &nbsp;&nbsp;&nbsp; 🌎 Stable Diffusion for Remote Sensing
 
 My past projects include: <br>
-&nbsp;&nbsp;&nbsp; 🍺 Drunk Driving Detection Using Machine Learning 
+&nbsp;&nbsp;&nbsp; 🍺 Drunk Driving Detection Using Machine Learning <br>
 &nbsp;&nbsp;&nbsp; 📚 Representation Learning for Language Transformers [(Link)](https://github.com/kaaydin/representation-learning-language-transformers) <br>
 &nbsp;&nbsp;&nbsp; ❓ Visual Question Answering (VQA) System for Remote Sensing [(Link)](https://github.com/kaaydin/vqa-remote-sensing) <br>
 &nbsp;&nbsp;&nbsp;  📑 A task list management application on Java based on the Hexogonal Architecture [(Link)](https://github.com/kaaydin/tapas) <br>
