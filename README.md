@@ -3,7 +3,7 @@
 I am a computer science student interested in deep learning 📊 and product management 🚀. 
 
 I’m currently working on: <br>
-&nbsp;&nbsp;&nbsp; 🌎 Stable Diffusion for Remote Sensing
+&nbsp;&nbsp;&nbsp; 🌎 Image Translation in Remote Sensing with Diffusion Models
 
 My past projects include: <br>
 &nbsp;&nbsp;&nbsp; 🍺 Drunk Driving Detection Using Machine Learning [(Link)](https://github.com/kaaydin/drunk-driving-detection) <br>
