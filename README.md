@@ -11,7 +11,7 @@ I’m currently working on: <br>
 ❓ [Visual Question Answering (VQA) System for Remote Sensing](https://github.com/kaaydin/vqa-remote-sensing): Created a VQA system for interpreting remote sensing images through deep learning. <br>
 📑 [Task List Management Application](https://github.com/kaaydin/tapas): Built a Java-based task list management application following Hexagonal Architecture principles. <br>
 📚 [EduATAR Chatbot](https://github.com/kaaydin/eduatar-chatbot): Designed a chatbot to help users find information about apprenticeships using NLP. <br>
-📓 [Automatic Documentation for Jupyter Notebooks](https://github.com/kaaydin/automatic-notebook-documentation): Automated documentation generation for Jupyter notebooks to enhance efficiency. <br>
+📓 [Automatic Documentation for Jupyter Notebooks](https://github.com/kaaydin/automatic-notebook-documentation): Automated documentation generation for Jupyter notebooks to enhance efficiency <br>
 
 📫 Feel free to reach out if you have any questions! <br>
 [LinkedIn](https://www.linkedin.com/in/kaanaydin) 
