@@ -7,10 +7,15 @@ I’m currently working on: <br>
 
 ### Some of my past projects include:
 🍺 [Drunk Driving Detection Using Machine Learning](https://github.com/kaaydin/drunk-driving-detection): Developed a machine learning model to detect drunk driving from gas sensor data <br>
+
 📚 [Representation Learning for Language Transformers](https://github.com/kaaydin/representation-learning-language-transformers): ### <br>
+
 ❓ [Visual Question Answering (VQA) System for Remote Sensing](https://github.com/kaaydin/vqa-remote-sensing): Created a VQA system for interpreting RS images <br>
+
 📑 [Task List Management Application](https://github.com/kaaydin/tapas): Built a Java-based task list management application following Hexagonal Architecture principles <br>
+
 📚 [EduATAR Chatbot](https://github.com/kaaydin/eduatar-chatbot): Designed a chatbot to help users find information about apprenticeships using NLP. <br>
+
 📓 [Automatic Documentation for Jupyter Notebooks](https://github.com/kaaydin/automatic-notebook-documentation): Automated documentation generation for Jupyter notebooks to enhance efficiency <br>
 
 📫 Feel free to reach out if you have any questions! <br>
