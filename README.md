@@ -14,7 +14,7 @@ I’m currently working on: <br>
 📓 [Automatic Documentation for Jupyter Notebooks](https://github.com/kaaydin/automatic-notebook-documentation): Automated documentation generation for Jupyter notebooks to enhance efficiency. <br>
 
 📫 Feel free to reach out if you have any questions! <br>
-[LinkedIn](https://www.linkedin.com/in/kaaydin) 
+[LinkedIn](https://www.linkedin.com/in/kaanaydin) 
 [Email](mailto:kaan.aydin@example.com)
 
 ### 📄 Recent Publications
