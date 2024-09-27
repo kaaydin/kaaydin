@@ -14,7 +14,7 @@ I’m currently working on: <br>
 
 📑 [Task List Management Application](https://github.com/kaaydin/tapas): Built a Java-based task list management application following Hexagonal Architecture principles <br>
 
-📚 [EduATAR Chatbot](https://github.com/kaaydin/eduatar-chatbot): Designed a chatbot to help users find information about apprenticeships using NLP. <br>
+📚 [Eduatar Chatbot](https://github.com/kaaydin/eduatar-chatbot): Designed a chatbot to help users find information about apprenticeships using NLP. <br>
 
 📓 [Automatic Documentation for Jupyter Notebooks](https://github.com/kaaydin/automatic-notebook-documentation): Automated documentation generation for Jupyter notebooks to enhance efficiency <br>
 
