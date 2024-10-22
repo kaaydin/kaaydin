@@ -22,5 +22,7 @@ I’m currently working on: <br>
 [LinkedIn](https://www.linkedin.com/in/kaanaydin) 
 [Email](mailto:kaanaydin95@icloud.com)
 
+<br>
+
 ### 📄 Recent Publications
 Falk, D., Aydin, K., Scheibenreif, L., and Borth, D. "Merging Patches and Tokens: A VQA System for Remote Sensing." In *Proceedings of the IEEE International Geoscience and Remote Sensing Symposium (IGARSS)*, pp. 694-698, 2024. [DOI: 10.1109/IGARSS53475.2024.10641975](https://ieeexplore.ieee.org/document/10641975).
