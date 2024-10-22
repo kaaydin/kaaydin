@@ -16,7 +16,7 @@ I’m Kaan, a Computer Science graduate student at the University of St. Gallen,
 
 ❓ [Visual Question Answering (VQA) System for Remote Sensing](https://github.com/kaaydin/vqa-remote-sensing): Created a VQA system for interpreting RS images <br>
 
-📑 [Task List Management Application](https://github.com/kaaydin/tapas): Built a Java-based task list management application following Hexagonal Architecture principles <br>
+📑 [Task List Management Application](https://github.com/kaaydin/tapas): Built a task list management app in Java following Hexagonal Architecture principles <br>
 
 📚 [Eduatar Chatbot](https://github.com/kaaydin/eduatar-chatbot): Designed a chatbot to help users find information about apprenticeships using NLP. <br>
 
