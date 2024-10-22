@@ -2,9 +2,13 @@
 
 I’m Kaan, a Computer Science graduate student at the University of St. Gallen, with a passion for data & deep learning. I have professional experience with BCG and AWS, specializing in AI and GenAI solutions. My current research focuses on using diffusion models for image translation in remote sensing.
 
+<br>
+
 #### I’m currently working on: 
 
 🌎 Diffusion Models in Remote Sensing focusing on SAR-to-optical image translation
+
+<br>
 
 #### Some of my past projects include:
 
