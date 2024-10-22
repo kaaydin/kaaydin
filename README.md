@@ -2,7 +2,8 @@
 
 I’m Kaan, a Computer Science graduate student at the University of St. Gallen, with a passion for data & deep learning. I have professional experience with BCG and AWS, specializing in AI and GenAI solutions. My current research focuses on using diffusion models for image translation in remote sensing.
 
-I’m currently working on: <br>
+#### I’m currently working on: 
+
 🌎 Diffusion Models in Remote Sensing focusing on SAR-to-optical image translation
 
 #### Some of my past projects include:
@@ -16,8 +17,6 @@ I’m currently working on: <br>
 📚 [Eduatar Chatbot](https://github.com/kaaydin/eduatar-chatbot): Designed a chatbot to help users find information about apprenticeships using NLP. <br>
 
 📓 [Automatic Documentation for Jupyter Notebooks](https://github.com/kaaydin/automatic-notebook-documentation): Automated documentation generation for Jupyter notebooks to enhance efficiency <br>
-
-<br>
 
 <br>
 
